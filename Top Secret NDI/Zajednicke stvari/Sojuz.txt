@@ -1,0 +1,4 @@
+Ovo je opis kako se koristiti sGate-om:
+
+Ako radi -> ne diraj
+Ako ne radi -> restart
